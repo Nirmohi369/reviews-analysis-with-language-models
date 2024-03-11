@@ -11,7 +11,7 @@ This repository contains code and documentation for a sentiment analysis project
 4. README.md: Provides an overview of the project, instructions for replicating the analysis, and considerations for model selection.
 
 ### Usage:
-1. Clone the repository: git clone https://github.com/yourusername/sentiment-analysis-amazon-reviews.git
+1. Clone the repository: git clone https://github.com/Nirmohi369/reviews-analysis-with-language-models.git
 2. Navigate to the project directory: cd sentiment-analysis-amazon-reviews
 3. Install dependencies: pip install -r requirements.txt
 4. Run the code scripts for data preprocessing, model training, and evaluation.
